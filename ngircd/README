@@ -1,0 +1,10 @@
+"docker compose up" en esta carpeta levanta un contenedor con un servidor irc.
+Creo que puede ser util para ver como funciona y comparar con el comportamiento de nuestro ft_irc
+
+Ejecuta bajo tu propia responsabilidad.
+Fuente: https://hub.docker.com/r/linuxserver/ngircd
+
+Modificaciones al original:
+	-Solo loopback para no exponer nada en tu red local "127.0.0.1:6667:6667"
+	-Archivo ./config/ngrid.conf copio el mio para trabajar todos con la misma configuracion:
+		* Descomentada linea ";Password = abc"
