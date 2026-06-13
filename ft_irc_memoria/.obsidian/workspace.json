@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "74b72df6195e5718",
+    "type": "split",
+    "children": [
+      {
+        "id": "07025a591133513a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aefb0b1b8fba1642",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Índice ft_irc.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 - Índice ft_irc.md"
+            }
+          },
+          {
+            "id": "c7fc924e8d40d66f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sendClientData.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sendClientData"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ac0442c796d81c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2645deae608452a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7f1b6cd34b597ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "148b59431391134a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "149cd48aea6bc8cc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "517784998396782a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a018da528ea2861a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "482887678ad75729",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bienvenido.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Bienvenido"
+            }
+          },
+          {
+            "id": "c79f4e1c5bcc9d0f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bienvenido.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Bienvenido"
+            }
+          },
+          {
+            "id": "5bb79f7b4ce06881",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "0a62c6455c0eb930",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "4e27104d9cad0669",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bienvenido.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Bienvenido"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "c7fc924e8d40d66f",
+  "lastOpenFiles": [
+    "sendClientData.md",
+    "00 - Índice ft_irc.md.md",
+    "Planning.md",
+    "RFCs.md",
+    "README.md",
+    "planning/FASE_5.md",
+    "planning/FASE_4.md",
+    "planning/FASE_1.md",
+    "RFC_IRC/guia_rfc2812_bloque1.md",
+    "RFC_IRC/rfc2812.txt",
+    "Hub - Conceptos y Referencias.md",
+    "Bienvenido.md",
+    "NumericReplies.hpp",
+    "marcadores.txt",
+    "ft_irc_guia.html",
+    "RFC_IRC/rfc1459.txt",
+    "RFC_IRC",
+    "planning/README.md",
+    "planning/FUNCIONES.md",
+    "planning/FASE_7.md",
+    "planning/FASE_6.md",
+    "planning/FASE_3.md",
+    "planning/FASE_2.md",
+    "planning",
+    "Explicaciones clave/errores_en_recv_send_accept.md",
+    "Explicaciones clave/EAGAIN_y_otros_errores.md",
+    "Explicaciones clave/ComandCreator.md",
+    "Explicaciones clave"
+  ]
+}
