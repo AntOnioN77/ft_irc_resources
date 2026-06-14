@@ -72,10 +72,12 @@ client.appendToWriteBuf(respuesta);  // Ahora el cliente TIENE datos que enviar
 
 ### Paso 2: Activar el evento POLLOUT
 
-Aquí viene lo interesante. Mira `queueueClientData()` (sí, está mal escrito 😄):
 
+Aquí viene lo interesante. Mira `queueClientData()`:
+>Aviso:
+>Esta función No está en la rama "fase-4"
 ```cpp
-void Server::queueueClientData(Client &client, const std::string &data)
+void Server::queueClientData(Client &client, const std::string &data)
 {
     size_t id = findConnectionByFd(client.getFd());
     connections_[id].events |= POLLOUT;  // ← ACTIVA POLLOUT
