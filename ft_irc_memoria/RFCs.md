@@ -1,7 +1,8 @@
 ## Guia para entender RFCs 
 Enfocada en ft_irc, pero pensada como introducción a los verdaderos RFCs. Seguir esta guía no es una forma perezosa de evitar consultas a los RFC, sino un camino para empezar a entenderlos.
-- [[guia_rfc2812_bloque1]] Ayuda para comprender RFC 2812
--  (...)
+- [[guia_rfc2812_bloque1]] 
+- [[guia_rfc2812_bloque2]]
+- [[guia_rfc2812_bloque3]]
 
 ## RFCs principales
 Enlaces directos a las especificaciones del protocolo IRC.
